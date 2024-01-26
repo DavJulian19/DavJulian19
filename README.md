@@ -21,8 +21,6 @@ How to reach me:
 ### 📈 Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=davjulian19&show_icons=true&theme=gotham" alt="davjulian19" />
   
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davjulian19&theme=gotham&show_icons=true&hide_border=true&layout=compact" alt="![Top Langs]">
-</p>
-
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davjulian19&theme=gotham&show_icons=true&layout=compact" alt="![Top Langs]" /> 
+  
 <hr>
