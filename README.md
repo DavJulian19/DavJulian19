@@ -1,8 +1,8 @@
-# Hello there 👋, I'm David
+# Hello there 👋
 ## I'm a Developer and a continuous Learner!!
 
 
-Hi, I'm David Julian, a **`Junior Full Stack Web Developer`** , currently living in <img src="https://www.citypng.com/public/uploads/preview/round-german-flag-icon-free-png-11648758182o7cshs77hs.png" width="13"/> <b> Cologne, Germany</b>. Developing elegant and detailed interfaces is my passion.
+My name is David Julian, I'm **`Junior Full Stack Web Developer`** , currently living in <img src="https://www.citypng.com/public/uploads/preview/round-german-flag-icon-free-png-11648758182o7cshs77hs.png" width="13"/> <b> Cologne, Germany</b>. Developing elegant and detailed interfaces is my passion.
 
 - 🔭 Alumni Le Wagon intensive web development bootcamp
 - 🌱 Daily catching up (trying) with the web trends
@@ -22,5 +22,3 @@ How to reach me:
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=davjulian19&show_icons=true&theme=gotham" alt="davjulian19" />
   
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davjulian19&theme=gotham&show_icons=true&layout=compact" alt="![Top Langs]" /> 
-  
-<hr>
